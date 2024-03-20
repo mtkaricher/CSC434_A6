@@ -305,6 +305,7 @@ int main() {
 
 Once we compile and run the program from the terminal, we are given a hexadecimal number of **50617373776F72642069732064656573**. Running it through [the website we used in task 2](https://www.rapidtables.com/convert/number/hex-to-ascii.html), we are given the ASCII message, "The password is dees". This is also the password to access the seeds virtual machine. 
 
-**INSERT task3 FINAL**
+![task3 FINAL](https://github.com/mtkaricher/CSC434_A6/assets/98564022/bfd45cc0-a65c-41c8-9ae9-817bedb4aca5)
 
-**INSERT hex to ascii**
+![hex to ascii](https://github.com/mtkaricher/CSC434_A6/assets/98564022/17399b31-a167-49b0-8891-49ad18420baa)
+
